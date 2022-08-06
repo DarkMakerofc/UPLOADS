@@ -1,0 +1,29 @@
+{
+
+  "EHI" : "Queen elisa ehi",
+  "C_E_DATES" : "MAKE EXPIRED",
+  "XX_XX" : "XXGGG",
+  "EHI_FILES" : [
+     { 
+      "SG_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGFB.ehi",
+      "SG_FILE2" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGYT.ehi",
+      "SG_FILE3" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGZOOM.ehi",
+      "SG_FILR4" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30WASG.ehi"
+    },
+    {
+      "US_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7SGWA.ehi",
+      "US_FILE2" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USYT.ehi",
+      "US_FILE3" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USFB.ehi",
+      "US_FILE4" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/USZOOM.ehi" 
+     },
+     {
+      "UK_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/",
+      "UK_FILE2" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/",
+      "UK_FILE3" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/",
+      "UK_FILE4" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/"
+     }
+    
+  ]
+  
+}
+
