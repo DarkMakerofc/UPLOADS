@@ -7,16 +7,16 @@
   "EHI_IMOJI2" : "🧚",
   "EHI_FILES" : [
      { 
-      "SG_FILE1" : " SG1 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGFB.ehi",
-      "SG_FILE2" : "SG2 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30WASG.ehi",
-      "SG_FILE3" : "SG3 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGYT.ehi",
-      "SG_FILR4" : "SG4 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30WAZOOM.ehi"
+      "SG_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGFB.ehi",
+      "SG_FILE2" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30WASG.ehi",
+      "SG_FILE3" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30SGYT.ehi",
+      "SG_FILR4" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/30WAZOOM.ehi"
     },
     {
-      "US_FILE1" : "US1 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USFB.ehi",
-      "US_FILE2" : "US2 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7SGWA.ehi",
-      "US_FILE3" : "US3 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USYT.ehi",
-      "US_FILE4" : "US4 https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USZOOM.ehi" 
+      "US_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USFB.ehi",
+      "US_FILE2" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7SGWA.ehi",
+      "US_FILE3" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USYT.ehi",
+      "US_FILE4" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/7USZOOM.ehi" 
      },
      {
       "UK_FILE1" : "https://github.com/DarkMakerofc/UPLOADS/raw/main/EHI/",
